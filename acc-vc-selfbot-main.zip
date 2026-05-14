@@ -1,0 +1,5 @@
+{
+  "Token": "your-user-token",
+  "Guild": "your-guild-id",
+  "Channel": "your-voice-channel-id"
+}
